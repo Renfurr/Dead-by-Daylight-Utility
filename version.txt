@@ -1,2 +1,2 @@
-1.0
-https://github.com/Renfurr/Dead-by-Daylight-Utility/releases/download/v1.0/DBD.Utility.exe
+1.1
+https://github.com/Renfurr/Dead-by-Daylight-Utility/releases/download/v1.1/DBD.Utility.exe
